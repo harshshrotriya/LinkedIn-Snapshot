@@ -9,17 +9,17 @@ Quick connection actions
 AI-powered recommendation engine
 Custom filtering options
 
-Business Impact
+## Business Impact
 
 Enhanced connection relevance through similarity scoring
 Streamlined networking experience
 Improved quality of professional connections
 Expected to influence users’ connection requests by 30%,
 
-Technical Implementation
+## Technical Implementation
 This repository contains:
 
-Product Requirement Document
++ Product Requirement Document
 + React Component - Profile card component with interactive elements
 + Design Assets - UI mockups and design system
 + more upon further development
